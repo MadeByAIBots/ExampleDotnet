@@ -1,0 +1,22 @@
+# .NET Core
+bin/
+obj/
+out/
+*.suo
+*.user
+*.userosscache
+*.cache
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.log
+*.bak
+*.tmp
+*.swp
+*.vspscc
+*.vssscc
+.vs/
+# Rider
+.idea/
+*.DotSettings.user
