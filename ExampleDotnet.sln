@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDotnet.Library", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDotnet.Library.Tests.Unit", "ExampleDotnet.Library.Tests.Unit\ExampleDotnet.Library.Tests.Unit.csproj", "{6C867A71-E4D7-416E-B712-93867AFDCB6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDotnet.ApiServer", "ExampleDotnet.ApiServer\ExampleDotnet.ApiServer.csproj", "{3C802A6E-4FF2-45A3-AE3F-C91BAC29A15B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{6C867A71-E4D7-416E-B712-93867AFDCB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C867A71-E4D7-416E-B712-93867AFDCB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C867A71-E4D7-416E-B712-93867AFDCB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DA2E2B-6ED6-4274-B4EB-393FC4153DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DA2E2B-6ED6-4274-B4EB-393FC4153DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DA2E2B-6ED6-4274-B4EB-393FC4153DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DA2E2B-6ED6-4274-B4EB-393FC4153DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C802A6E-4FF2-45A3-AE3F-C91BAC29A15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C802A6E-4FF2-45A3-AE3F-C91BAC29A15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C802A6E-4FF2-45A3-AE3F-C91BAC29A15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C802A6E-4FF2-45A3-AE3F-C91BAC29A15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FA36B5-0524-42B3-98FE-2E28682761D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FA36B5-0524-42B3-98FE-2E28682761D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FA36B5-0524-42B3-98FE-2E28682761D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FA36B5-0524-42B3-98FE-2E28682761D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
